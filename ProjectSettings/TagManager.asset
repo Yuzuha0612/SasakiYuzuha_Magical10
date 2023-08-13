@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Elevator
+  - Hasiru
+  - Floor
+  - Robot
+  - Sabodon
+  - Wall
+  - Goal
+  - GameOverArea
+  - ElevatorSwitch
+  - TogeToge
+  - Administrator
+  - SiguEffect
+  - TimeEffect
+  - TimeStopBGM
+  - BGM
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessLayer
+  - Water
+  - UI
+  - Sana
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

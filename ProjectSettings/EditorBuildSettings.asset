@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TeamLogo.unity
+    guid: 568811f131e7dc64eb14fb4abacbe1c3
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: d10fe9189d8b2564c962a3fef3fade75
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 32dc0c6c03c62414cb66fd9fc8d7504c
+  - enabled: 1
+    path: Assets/Scenes/Stage0.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Stage1.unity
+    guid: 6f76b13cdfcb1904c9eccacce21a718f
+  - enabled: 1
+    path: Assets/Scenes/Stage2_takeda.unity
+    guid: da7670fd2b4d5a94e95fb43e8b723f96
+  - enabled: 1
+    path: Assets/Scenes/StageEle_miura.unity
+    guid: 4d58c6d54e66d4b4db975ebe9a16d901
+  - enabled: 1
+    path: Assets/Scenes/Stage3_miura.unity
+    guid: b2f498892a8e7aa488da0eac8b1e5c25
+  - enabled: 1
+    path: Assets/Scenes/StageSabo_miura.unity
+    guid: 5f28dc8aada779c448a2a52e833447a8
+  - enabled: 1
+    path: Assets/Scenes/Stage4_miura.unity
+    guid: 8635aa255ed24ff4e9b81a9308151cd8
+  - enabled: 1
+    path: Assets/Scenes/Stage5_takeda.unity
+    guid: bf880d52f9898b14991ab1b0107b1a42
+  - enabled: 1
+    path: Assets/Scenes/Stage6_takeda.unity
+    guid: f3a437b3cccc85b4c9243e2736cbf9b4
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 8ff977a95390cd245ae8131734851b33
+  - enabled: 1
+    path: Assets/Scenes/GameClear.unity
+    guid: 9f5f85e1451e72a48b6b0912c34ce962
+  - enabled: 1
+    path: Assets/Scenes/GameOverTimeUp.unity
+    guid: 1e69a57f5fc049849925ea4e12597647
+  - enabled: 1
+    path: Assets/Scenes/StagePata_miura.unity
+    guid: 37756c367eafa3f4eac7b934ace77a77
+  - enabled: 1
+    path: Assets/Scenes/StageTeku_miura.unity
+    guid: 91a621167ba459245861cea329e0ce31
+  m_configObjects: {}
